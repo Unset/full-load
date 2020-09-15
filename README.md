@@ -16,7 +16,7 @@ This plugin will configure all rides in your park everyday:
 
 ## Installation
 
- * Download [dist/full-load.js](master/dist/full-load.js/)
+ * Download [dist/full-load.js](https://raw.githubusercontent.com/Unset/full-load/blob/master/dist/full-load.js)
  * Make sure the file extension is `.js`, and not `.js.txt`
  * Place `full-load.js` in `OpenRCT2/plugin` (on Windows this in usually in your Documents folder)
  * (Re)start OpenRCT2
