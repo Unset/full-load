@@ -2,6 +2,8 @@
 
 Always `Wait for: Full load` before a train departs! (... and other sensible default settings!)
 
+![Screenshot](https://raw.githubusercontent.com/Unset/full-load/master/img/screenshot.png)
+
 ## Overview
 
 This plugin will configure all rides in your park everyday:
